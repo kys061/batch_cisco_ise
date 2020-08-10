@@ -1,0 +1,6 @@
+.env
+*.csv
+*.txt
+jq
+deploy/.env
+deploy/jq
